@@ -1,4 +1,2 @@
-# Introduction
-	这是我的第一本电子书
-	姓名：程聪
-	学号：2018443862
+# Initial page
+
